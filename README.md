@@ -17,8 +17,9 @@
 
 <br>
 
-![Demo Banner](https://via.placeholder.com/900x300/0f172a/38bdf8?text=CSV+%2B+Lenguaje+Natural+%3D+Dashboard+Ejecutivo)
-
+![Interfaz](https://github.com/David-Simon-Soler/Analizador_CSV_Agente_IA/blob/main/Analizador_ai_csv.png)
+![Uso Agente](https://github.com/David-Simon-Soler/Analizador_CSV_Agente_IA/blob/main/ejemplo_uso_agente_IA.png)
+![Uso dashboard](hhttps://github.com/David-Simon-Soler/Analizador_CSV_Agente_IA/blob/main/ejemplo_dashboard_agente_IA.png)
 </div>
 
 ---
@@ -223,14 +224,6 @@ Las contribuciones son bienvenidas. Si encuentras un bug, tienes una idea de mej
 5. Abre un **Pull Request**
 
 ---
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia **MIT**. Puedes usarlo, modificarlo y distribuirlo libremente con atribución. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
----
-
-<div align="center">
 
 ## 👤 Autor
 
