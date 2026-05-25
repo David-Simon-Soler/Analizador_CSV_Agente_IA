@@ -19,7 +19,7 @@
 
 ![Interfaz](https://github.com/David-Simon-Soler/Analizador_CSV_Agente_IA/blob/main/Analizador_ai_csv.png)
 ![Uso Agente](https://github.com/David-Simon-Soler/Analizador_CSV_Agente_IA/blob/main/ejemplo_uso_agente_IA.png)
-![Uso dashboard](hhttps://github.com/David-Simon-Soler/Analizador_CSV_Agente_IA/blob/main/ejemplo_dashboard_agente_IA.png)
+![Uso dashboard](https://github.com/David-Simon-Soler/Analizador_CSV_Agente_IA/blob/main/ejemplo_dashboard_agente_IA.png)
 </div>
 
 ---
